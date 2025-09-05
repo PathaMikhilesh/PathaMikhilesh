@@ -18,11 +18,11 @@ Passionate developer building <b>modern web applications</b> with <b>HTML, CSS, 
 ---
 
 ## 🚀 About Me
-- 💻 Skilled in **Frontend Development** <img src="https://img.shields.io/badge/HTML5-000?style=flat&logo=html5&logoColor=00C2FF" height="20"/> <img src="https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=00C2FF" height="20"/> <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=00C2FF" height="20"/>
-- 🐍 Experienced with **Python** <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=00C2FF" height="20"/> & **C Programming** <img src="https://img.shields.io/badge/C-000?style=flat&logo=c&logoColor=00C2FF" height="20"/>
-- 🧠 Exploring **AI & Machine Learning** <img src="https://img.shields.io/badge/AI-000?style=flat&logo=ai&logoColor=00C2FF" height="20"/>  
-- 🗄️ Experienced with **Oracle Database Development** <img src="https://img.shields.io/badge/Oracle-000?style=flat&logo=oracle&logoColor=00C2FF" height="20"/>  
-- 📊 **Data Analysis & Visualization** with **Jupyter Notebook** <img src="https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter&logoColor=00C2FF" height="20"/>  
+- 💻 Skilled in **Frontend Development** <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff" height="20"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff" height="20"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" height="20"/>
+- 🐍 Experienced with **Python** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff" height="20"/> & **C Programming** <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=ffffff" height="20"/>
+- 🧠 Exploring **AI & Machine Learning** <img src="https://img.shields.io/badge/AI-FF6F61?style=flat&logo=ai&logoColor=ffffff" height="20"/>  
+- 🗄️ Experienced with **Oracle Database Development** <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=ffffff" height="20"/>  
+- 📊 **Data Analysis & Visualization** with **Jupyter Notebook** <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff" height="20"/>  
 - 🌱 Currently learning **React.js & Full-Stack Development**  
 - 🎯 Goal: Build impactful projects & collaborate with innovative teams  
 
@@ -30,16 +30,16 @@ Passionate developer building <b>modern web applications</b> with <b>HTML, CSS, 
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00C2FF" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00C2FF" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00C2FF" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00C2FF" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00C2FF" />
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00C2FF" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00C2FF" />
-  <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=00C2FF" />
-  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00C2FF" />
-  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=ai&logoColor=00C2FF" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=ai&logoColor=ffffff" />
 </p>
 
 ---
@@ -63,18 +63,8 @@ Passionate developer building <b>modern web applications</b> with <b>HTML, CSS, 
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/PathaMikhilesh">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00C2FF" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00C2FF" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00C2FF" />
-  </a>
-</p>
+🌐 Connect with Me
+<p align="center"> <a href="https://github.com/PathaMikhilesh"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00C2FF" /> </a> <a href="mailto:mikhileshmikhi.p@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff" /> </a> <a href="https://www.linkedin.com/in/mikhileshpatha/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff" /> </a> <a href="https://linktr.ee/PathaMikhilesh"> <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=ffffff" /> </a> </p>
 
 ---
 
