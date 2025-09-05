@@ -44,14 +44,6 @@ Passionate developer building <b>modern web applications</b> with <b>HTML, CSS, 
 
 ---
 
-## 📂 Featured Projects
-🔹 [**THE-SHOE-HUB**](https://github.com/PathaMikhilesh/THE-SHOE-HUB) — Responsive Frontend project using HTML & CSS.  
-🔹 [**Brewski**](https://github.com/PathaMikhilesh/Brewski) — Python-based project *(details coming soon)*.  
-🔹 [**Water Quality Prediction**](https://github.com/PathaMikhilesh/Water_Quality_Prediction) — ML model in Jupyter Notebook.  
-🔹 [**Final Year Project**](https://github.com/PathaMikhilesh/final-year) — Built using TypeScript *(description coming soon)*.  
-
----
-
 ## 📊 GitHub Stats (Dark Mode)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PathaMikhilesh&show_icons=true&theme=dark&hide_border=true&icon_color=00C2FF" height="180px"/>
@@ -63,8 +55,22 @@ Passionate developer building <b>modern web applications</b> with <b>HTML, CSS, 
 
 ---
 
-🌐 Connect with Me
-<p align="center"> <a href="https://github.com/PathaMikhilesh"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00C2FF" /> </a> <a href="mailto:mikhileshmikhi.p@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff" /> </a> <a href="https://www.linkedin.com/in/mikhileshpatha/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff" /> </a> <a href="https://linktr.ee/PathaMikhilesh"> <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=ffffff" /> </a> </p>
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/PathaMikhilesh">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00C2FF" />
+  </a>
+  <a href="mailto:mikhileshmikhi.p@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+  </a>
+  <a href="https://www.linkedin.com/in/mikhileshpatha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+  </a>
+  <a href="https://linktr.ee/PathaMikhilesh">
+    <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=ffffff" />
+  </a>
+</p>
+
 
 ---
 
