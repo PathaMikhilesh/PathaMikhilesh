@@ -1,30 +1,25 @@
-<!-- Animated Typing Banner -->
+<!-- Animated Typing Banner with Cyan/White Accent on Black -->
 <p align="center">
   <a href="https://github.com/PathaMikhilesh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Python+Enthusiast;Oracle+Developer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&background=000000&center=true&vCenter=true&width=800&lines=Frontend+Developer;Python+Enthusiast;Oracle+Developer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Background Gradient Banner with Animation -->
+<!-- Jet-Black Banner, Fade Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:80FFDB,100:5E60CE&height=150&section=header&text=Mikhilesh%20Patha&fontColor=ffffff&fontSize=55&animation=twinkling&fontAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Mikhilesh%20Patha&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55"/>
 </p>
 
-<!-- Animated Cursor Effect (SVG) -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/kyechan99/capsule-render@master/svg/text_effect.svg?fontSize=42&text=👨‍💻%20PathaMikhilesh%20--%20Animated%20Cursor%20Effect&color=00C2FF" />
-</p>
-
-<h2 align="center">👨‍💻 Frontend Developer | Python & Oracle Enthusiast | India 🇮🇳</h2>
-<p align="center">
+<h2 align="center" style="color:#00C2FF;background:#222;">👨‍💻 Frontend Developer | Python & Oracle Enthusiast | India 🇮🇳</h2>
+<p align="center" style="color:#888;background:#101010;">
 A passionate developer focused on building <b>modern web experiences</b> with <b>HTML, CSS, JavaScript, TypeScript</b>, while also leveraging <b>Python & Oracle</b> for scalable solutions.
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Skilled in **Frontend Development** <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E34F26" height="20"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6" height="20"/>  
-- 🐍 Experienced with **Python** <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB" height="20"/> and **Oracle Database Development** <img src="https://img.shields.io/badge/Oracle-000000?style=flat&logo=oracle&logoColor=F80000" height="20"/>  
+- 💻 Skilled in **Frontend Development** <img src="https://img.shields.io/badge/HTML5-000?style=flat&logo=html5&logoColor=E34F26" height="20"/> <img src="https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=1572B6" height="20"/>  
+- 🐍 Experienced with **Python** <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB" height="20"/> and **Oracle Database Development** <img src="https://img.shields.io/badge/Oracle-000?style=flat&logo=oracle&logoColor=F80000" height="20"/>  
 - 📊 Exploring **Machine Learning & Data Visualization**  
 - 🌱 Currently learning **React.js & Full-stack Development**  
 - 🎯 Goal: To build impactful projects & collaborate with innovative teams  
@@ -33,15 +28,14 @@ A passionate developer focused on building <b>modern web experiences</b> with <b
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <!-- Tech with Shade Animation Using SVG gradients -->
-  <img src="https://img.shields.io/badge/HTML5-gradient?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=80FFDB" />
-  <img src="https://img.shields.io/badge/CSS3-gradient?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=5E60CE" />
-  <img src="https://img.shields.io/badge/JavaScript-gradient?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=FFD700" />
-  <img src="https://img.shields.io/badge/TypeScript-gradient?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=42A5F5" />
-  <img src="https://img.shields.io/badge/Python-gradient?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=00C2FF" />
-  <img src="https://img.shields.io/badge/Node.js-gradient?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=43FF64" />
-  <img src="https://img.shields.io/badge/Oracle-gradient?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=5E2129" />
-  <img src="https://img.shields.io/badge/Jupyter-gradient?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=FFBC42" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=F80000" />
+  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626" />
 </p>
 
 ---
@@ -54,15 +48,13 @@ A passionate developer focused on building <b>modern web experiences</b> with <b
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Dark Mode)
 <p align="center">
-  <!-- Animated stats with shadows and gradients -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PathaMikhilesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=30,434343,2C5364" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathaMikhilesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=30,434343,2C5364" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PathaMikhilesh&show_icons=true&theme=github_dark&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathaMikhilesh&layout=compact&theme=github_dark&hide_border=true" height="180px"/>
 </p>
 <p align="center">
-  <!-- Streak animated effect -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PathaMikhilesh&theme=tokyonight&hide_border=true&bg_color=30,434343,2C5364" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PathaMikhilesh&theme=github-dark&hide_border=true" height="180px"/>
 </p>
 
 ---
@@ -70,24 +62,19 @@ A passionate developer focused on building <b>modern web experiences</b> with <b
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/PathaMikhilesh">
-    <img src="https://img.shields.io/badge/GitHub-gradient?style=for-the-badge&logo=github&logoColor=white&labelColor=434343" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-gradient?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=434343" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-id">
-    <img src="https://img.shields.io/badge/LinkedIn-gradient?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=434343" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 </p>
 
 ---
 
-<!-- Footer with animated gradient -->
+<!-- Footer Black Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E60CE,100:80FFDB&height=80&section=footer&text=Thank%20you%20for%20visiting!&fontColor=ffffff&fontSize=20&animation=twinkling"/>
-</p>
-
-<!-- Custom Cursor SVG for profile visitors (visually animated using shields and SVG text) -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/snk.svg?user=PathaMikhilesh" height="85" alt="animated profile visitor chart"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer&text=Thank%20you%20for%20visiting!&fontColor=ffffff&fontSize=20&animation=fadeIn"/>
 </p>
