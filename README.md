@@ -1,13 +1,11 @@
-<!-- Animated Typing Banner with Cyan/White Accent on Black -->
+<!-- Animated Name Typing Effect on Black -->
 <p align="center">
-  <a href="https://github.com/PathaMikhilesh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&background=000000&center=true&vCenter=true&width=800&lines=Frontend+Developer;Python+Enthusiast;Oracle+Developer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00C2FF&background=000000&center=true&vCenter=true&width=600&lines=Mikhilesh+Patha" alt="Animated Name Typing SVG" />
 </p>
 
-<!-- Jet-Black Banner, Fade Animation -->
+<!-- Jet Black Banner with Fade Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Mikhilesh%20Patha&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Mikhilesh%20Patha&fontColor=00C2FF&fontSize=50&animation=fadeIn&fontAlignY=55"/>
 </p>
 
 <h2 align="center" style="color:#00C2FF;background:#222;">👨‍💻 Frontend Developer | Python & Oracle Enthusiast | India 🇮🇳</h2>
@@ -76,5 +74,5 @@ A passionate developer focused on building <b>modern web experiences</b> with <b
 
 <!-- Footer Black Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer&text=Thank%20you%20for%20visiting!&fontColor=ffffff&fontSize=20&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer&text=Thank%20you%20for%20visiting!&fontColor=00C2FF&fontSize=20&animation=fadeIn"/>
 </p>
