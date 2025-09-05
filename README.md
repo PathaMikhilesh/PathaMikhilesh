@@ -1,4 +1,4 @@
-<!-- Animated Name and Scrolling Developer Roles (Black Theme) -->
+<!-- Animated Name & Scrolling Roles (Black Theme) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1200&color=00C2FF&background=000000&width=650&center=true&vCenter=true&lines=Mikhilesh+Patha;Frontend+Developer;Python+Enthusiast;Oracle+Developer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Animated Name and Scrolling Roles" />
 </p>
@@ -8,6 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Mikhilesh%20Patha&fontColor=00C2FF&fontSize=50&animation=fadeIn&fontAlignY=55"/>
 </p>
 
+<!-- Dark themed intro paragraph -->
 <p align="center">
 A passionate developer focused on building <b>modern web experiences</b> with <b>HTML, CSS, JavaScript, TypeScript</b>, while also leveraging <b>Python & Oracle</b> for scalable solutions.
 </p>
@@ -19,7 +20,7 @@ A passionate developer focused on building <b>modern web experiences</b> with <b
 - 🐍 Experienced with **Python** <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB" height="20"/> and **Oracle Database Development** <img src="https://img.shields.io/badge/Oracle-000?style=flat&logo=oracle&logoColor=F80000" height="20"/>  
 - 📊 Exploring **Machine Learning & Data Visualization**  
 - 🌱 Currently learning **React.js & Full-stack Development**  
-- 🎯 Goal: To build impactful projects & collaborate with innovative teams  
+- 🎯 Goal: To build impactful projects & collaborate with innovative teams
 
 ---
 
