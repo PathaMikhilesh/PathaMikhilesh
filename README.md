@@ -1,15 +1,14 @@
-<!-- Animated Name Typing Effect on Black -->
+<!-- Animated Name and Scrolling Developer Roles (Black Theme) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00C2FF&background=000000&center=true&vCenter=true&width=600&lines=Mikhilesh+Patha" alt="Animated Name Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1200&color=00C2FF&background=000000&width=650&center=true&vCenter=true&lines=Mikhilesh+Patha;Frontend+Developer;Python+Enthusiast;Oracle+Developer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Animated Name and Scrolling Roles" />
 </p>
 
-<!-- Jet Black Banner with Fade Animation -->
+<!-- Jet Black Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Mikhilesh%20Patha&fontColor=00C2FF&fontSize=50&animation=fadeIn&fontAlignY=55"/>
 </p>
 
-<h2 align="center" style="color:#00C2FF;background:#222;">👨‍💻 Frontend Developer | Python & Oracle Enthusiast | India 🇮🇳</h2>
-<p align="center" style="color:#888;background:#101010;">
+<p align="center">
 A passionate developer focused on building <b>modern web experiences</b> with <b>HTML, CSS, JavaScript, TypeScript</b>, while also leveraging <b>Python & Oracle</b> for scalable solutions.
 </p>
 
