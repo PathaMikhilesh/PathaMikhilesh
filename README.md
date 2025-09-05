@@ -23,7 +23,7 @@ Passionate developer building <b>modern web applications</b> with <b>HTML, CSS, 
 - 🧠 Exploring **AI & Machine Learning** <img src="https://img.shields.io/badge/AI-FF6F61?style=flat&logo=ai&logoColor=ffffff" height="20"/>  
 - 🗄️ Experienced with **Oracle Database Development** <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=ffffff" height="20"/>  
 - 📊 **Data Analysis & Visualization** with **Jupyter Notebook** <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff" height="20"/>  
-- 🌱 Currently learning **React.js & Full-Stack Development**  
+- 🌱 Currently learning **Data Analytics & Data Science**  
 - 🎯 Goal: Build impactful projects & collaborate with innovative teams  
 
 ---
