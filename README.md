@@ -29,28 +29,30 @@ Passionate developer building <b>modern web applications</b> with <b>HTML, CSS, 
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=ai&logoColor=ffffff" />
+
+<p align="center" style="font-family: 'Courier New', Courier, monospace;">
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=ffffff" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=ai&logoColor=ffffff" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/ML-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=ffffff" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Data_Science-4B8BBE?style=for-the-badge&logo=python&logoColor=ffffff" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats (Dark Mode)
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PathaMikhilesh&show_icons=true&theme=dark&hide_border=true&icon_color=00C2FF" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathaMikhilesh&layout=compact&theme=dark&hide_border=true&icon_color=00C2FF" height="180px"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PathaMikhilesh&theme=dark&hide_border=true&ring=00C2FF&fire=00C2FF" height="180px"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PathaMikhilesh.PathaMikhilesh" height="180px"/>
 </p>
 
 ---
@@ -71,6 +73,12 @@ Passionate developer building <b>modern web applications</b> with <b>HTML, CSS, 
   </a>
 </p>
 
+---
+
+<!-- Fun Quote / Personal Touch -->
+<p align="center" style="color:#aad8ff;background:#000000;">
+💡 <i>"Experience is the name everyone gives to their mistakes."</i>
+</p>
 
 ---
 
